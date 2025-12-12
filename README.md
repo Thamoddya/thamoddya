@@ -63,20 +63,6 @@ Tech lead & Full-Stack Engineer with experience leading frontend and backend tea
 
 ---
 
-## 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=thamoddya&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thamoddya&theme=transparent&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thamoddya&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=thamoddya&theme=flat&no-bg=true&margin-w=10)
-
----
-
 ## ✍️ Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
